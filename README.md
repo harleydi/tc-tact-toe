@@ -1,2 +1,2 @@
-# tc-tact-toe
+# tic-tact-toe
 Tic Tact Toe Game
